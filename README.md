@@ -1,5 +1,5 @@
 # docker-mongo-prisma-prisma-client-lib
-Client side contains prisma-client-lib and node for console output. Server side contains dockerized prisma showing graphql playground
+Client side contains prisma-client-lib and node for console output. Server side contains dockerized prisma showing graphql playground. Implemented from [official prisma doc](https://www.prisma.io/docs/get-started/01-setting-up-prisma-new-database-JAVASCRIPT-a002/)
 
 Go to project directory and run following commands in terminal
 - docker-compose up -d
